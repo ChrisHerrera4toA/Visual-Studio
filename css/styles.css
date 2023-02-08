@@ -67,7 +67,7 @@ body{
 
 }.navegacion-principal a :hover{
     background-color: var(--meta);
-    color: void (--obscuro);
+    color: var(--obscuro);
 
 }
 
