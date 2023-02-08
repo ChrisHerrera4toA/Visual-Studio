@@ -12,6 +12,13 @@
  --tangente: #d90429;
 
 }
+html{
+    font-size: 62.5%;
+    font-family: "krub", sans-serif;
+}
+body{
+    font-size: 15px;
+}
 .titulo{
     text-align: center;
     font-size: 3.8rem;
@@ -55,10 +62,12 @@ body{
  text-decoration: none;
  font-size: 2rem;
  font-weight: 700;
+ font-weight: bold;
 
 
 }.navegacion-principal a :hover{
-    background-color: void (--meta);
+    background-color: var(--meta);
     color: void (--obscuro);
+
 }
 
