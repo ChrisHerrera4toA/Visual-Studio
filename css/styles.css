@@ -66,8 +66,8 @@ body{
 
 
 }.navegacion-principal a :hover{
-    background-color: var(--meta);
-    color: var(--obscuro);
+    background-color: var(--naranja);
+    color: var(--tangente);
 
 }
 
